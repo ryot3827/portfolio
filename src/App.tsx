@@ -22,9 +22,9 @@ const App: React.FC = () => {
       <section id='skills'>
         <Skills />
       </section>
-      <section id='works'>
+      {/* <section id='works'>
         <Works />
-      </section>
+      </section> */}
       <section id='contact'>
         <Contact />
       </section>

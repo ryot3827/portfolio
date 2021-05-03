@@ -43,17 +43,17 @@ const Contact: React.FC = () => {
           </Typography>
         </Box>
         <Box className={classes.root} display='flex' justifyContent='center' p={1}>
-          <Link href='#' color='inherit'>
+          <Link href='mailto:ryot3827@gmail.com' color='inherit'>
             <Avatar className={classes.green}>
               <MailIcon />
             </Avatar>
           </Link>
-          <Link href='#' color='inherit'>
+          <Link href='https://twitter.com/RT_0fficial' color='inherit'>
             <Avatar className={classes.blue}>
               <TwitterIcon />
             </Avatar>
           </Link>
-          <Link href='#' color='inherit'>
+          <Link href='https://github.com/ryot3827' color='inherit'>
             <Avatar className={classes.purple}>
               <GitHubIcon />
             </Avatar>

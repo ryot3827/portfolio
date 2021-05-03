@@ -30,14 +30,14 @@ const Navbar: React.FC = () => {
               SKILLS
             </Button>
           </AnchorLink>
-          <AnchorLink href='#works' style={{
+          {/*<AnchorLink href='#works' style={{
             textDecoration: 'none',
             color: 'inherit'
           }}>
             <Button color='inherit'>
               Works
             </Button>
-          </AnchorLink>
+        </AnchorLink>*/}
           <AnchorLink href='#contact' style={{
             textDecoration: 'none',
             color: 'inherit'

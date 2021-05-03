@@ -30,7 +30,7 @@ const Skills: React.FC = () => {
                 言語
               </Typography>
               <Typography color="textSecondary">
-                Ruby / PHP / JavaScript / TypeScript
+                C# / Python / JavaScript / TypeScript / Kotlin
               </Typography>
             </CardContent>
           </Card>
@@ -42,7 +42,7 @@ const Skills: React.FC = () => {
                 フレームワーク
               </Typography>
               <Typography color="textSecondary">
-                Ruby on Rails / Sinatra / Laravel / React
+                Django / Vue / React / mithril.js
               </Typography>
             </CardContent>
           </Card>
@@ -54,7 +54,7 @@ const Skills: React.FC = () => {
                 データベース
               </Typography>
               <Typography color="textSecondary">
-                MySQL / PostgreSQL
+                MySQL / NoSQL
               </Typography>
             </CardContent>
           </Card>
@@ -66,7 +66,19 @@ const Skills: React.FC = () => {
                 AWS
               </Typography>
               <Typography color="textSecondary">
-                EC2 / ECS / ECR / Lambda / SQS / SNS / Elastic Beanstalk / S3 / Cloud9 / CloudWatch / CloudFormation / RDS / Route53
+                EC2 / S3 / Cloud9 / EBS  / RDS / Route53
+              </Typography>
+            </CardContent>
+          </Card>
+        </Box>
+        <Box display='flex' justifyContent='center' p={1} >
+          <Card className={classes.root}>
+            <CardContent>
+              <Typography variant="h6">
+                Azure
+              </Typography>
+              <Typography color="textSecondary">
+                Azure Function / Static Web App
               </Typography>
             </CardContent>
           </Card>
