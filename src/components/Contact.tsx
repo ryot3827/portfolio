@@ -48,7 +48,7 @@ const Contact: React.FC = () => {
               <MailIcon />
             </Avatar>
           </Link>
-          <Link href='https://twitter.com/RT_0fficial' color='inherit'>
+          <Link href='https://twitter.com/Ryo_Kaguragi' color='inherit'>
             <Avatar className={classes.blue}>
               <TwitterIcon />
             </Avatar>
