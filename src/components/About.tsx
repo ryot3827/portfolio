@@ -15,7 +15,7 @@ const About: React.FC = () => {
           <Typography variant='body1' align='left'>
             私の名前は田中凌です。<br />
             大阪でエンジニアとして働いています。<br />
-            好きな言語・フレームワークはTypeScriptとVueです。
+            好きな言語・フレームワークはTypeScriptです。
           </Typography>
         </Box>
       </Box>
