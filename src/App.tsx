@@ -4,7 +4,6 @@ import Contact from './components/Contact';
 import MyAvatar from './components/MyAvatar';
 import Navbar from './components/Navbar';
 import Skills from './components/Skills';
-import Works from './components/Works';
 import ScrollUp from './utils/ScrollUp';
 
 const App: React.FC = () => {
