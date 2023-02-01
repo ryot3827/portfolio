@@ -5,7 +5,6 @@ import Typography from '@material-ui/core/Typography'
 import { makeStyles } from '@material-ui/core/styles'
 import Link from '@material-ui/core/Link'
 import MailIcon from '@material-ui/icons/Mail'
-import TwitterIcon from '@material-ui/icons/Twitter'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import Avatar from '@material-ui/core/Avatar'
 import { green, blue, purple } from '@material-ui/core/colors'
@@ -46,11 +45,6 @@ const Contact: React.FC = () => {
           <Link href='mailto:ryot3827@gmail.com' color='inherit'>
             <Avatar className={classes.green}>
               <MailIcon />
-            </Avatar>
-          </Link>
-          <Link href='https://twitter.com/Ryo_Kaguragi' color='inherit'>
-            <Avatar className={classes.blue}>
-              <TwitterIcon />
             </Avatar>
           </Link>
           <Link href='https://github.com/ryot3827' color='inherit'>

@@ -54,7 +54,7 @@ const Skills: React.FC = () => {
                 データベース
               </Typography>
               <Typography color="textSecondary">
-                MySQL / PostgreSQL
+                MySQL / PostgreSQL / DynamoDB
               </Typography>
             </CardContent>
           </Card>
@@ -66,7 +66,7 @@ const Skills: React.FC = () => {
                 AWS
               </Typography>
               <Typography color="textSecondary">
-                EC2 / S3 / RDS / Route53 /Lambda / API Gateway / Amplify
+                EC2 / S3 / RDS / Route53 /Lambda / API Gateway / Amplify / DynamoDB
               </Typography>
             </CardContent>
           </Card>
